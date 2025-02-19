@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "format": "prettier --config ./.prettierrc.cjs --write -l \"./*/**/*.{html,js,jsx,ts,tsx}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
