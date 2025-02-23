@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>horizontal stripes</title>
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .test-container {
+        width: 80%;
+        height: 80%;
+        background: linear-gradient(45deg, #fb3 25%, #58a 0, #58a 50%, #fb3 0, #fb3 75%, #58a 0);
+        background-size: 30px 30px;
+        /* background: linear-gradient(to right, #fb3 33.3%, #58a 33.3%, #58a 66.6%, yellowgreen 66.6%); */
+        /* background-size: 100px 100%; */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="test-container"></div>
+  </body>
+</html>
