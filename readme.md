@@ -23,3 +23,25 @@
 - [条纹背景-更好的斜向条纹](./background-border/diagonal-stripes-60deg.html)：利用 **repeating-linear-gradient** 可以轻易实现任意角度的斜向条纹。
 
 - [条纹背景-更好的斜向条纹](./background-border/test-color-stop-2positions.html)：利用 **repeating-linear-gradient** 可以在同一个色标上指定两个位置值相当于两个连续的色标具有相同的颜色和不同的位置，这个特性在创建渐变图案时是十分有用的。
+
+- [灵活的同色系条纹](./background-border/subtle-stripes.html)：最深的颜色指定为背景色，同时把半透明白色的条纹叠加在背景色之上来 得到浅色条纹。
+
+- [复杂的背景图案](./background-border/blueprint.html)：水平渐变图案跟垂直渐变图案配合实现简单的蓝图网格图案。
+
+- [波点](./background-border/polka.html)：径向渐变创建最简单的圆点的阵列。
+
+- [棋盘](./background-border/checkerboard.html)：用两个直角三角形来拼合出方块。
+
+- [棋盘](./background-border/checkerboard-svg.html)：用 SVG 来实现棋盘效果。
+
+- [伪随机背景](./background-border/cicada-stripes.html)：通过质数来增加随机真实性。
+
+- [连续的图像边框](./background-border/border-image.html)：**border-image** 基本原理就是九宫格伸缩法：把图片切割成九块，然后把它们应用到元素边框相应的边和角。
+
+- [连续的图像边框](./background-border/continuous-image-borders.html)：**border-image** 基本原理就是九宫格伸缩法：把图片切割成九块，然后把它们应用到元素边框相应的边和角。
+
+- [老式信封样式边框](./background-border/vintage-envelope.html)：利用渐变实现老式信封样式边框。
+
+- [蚂蚁行军边框](./background-border/marching-ants.html)：虚线边框动画。
+
+- [脚注](./background-border/footnote.html)：脚注。
