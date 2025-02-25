@@ -45,3 +45,11 @@
 - [蚂蚁行军边框](./background-border/marching-ants.html)：虚线边框动画。
 
 - [脚注](./background-border/footnote.html)：脚注。
+
+## 形状
+
+- [自适应的椭圆](./shape/ellipse.html)：**border-radius** 可以单独指定水平和垂直半径，只要用一个斜杠（/）分隔这两个值即可。这个特性允许在拐角处创建椭圆圆角。
+
+- [半椭圆](./shape/half-ellipse.html)
+
+- [四分之一椭圆](./shape/quarter-ellipse.html)
