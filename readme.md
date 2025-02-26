@@ -53,3 +53,7 @@
 - [半椭圆](./shape/half-ellipse.html)
 
 - [四分之一椭圆](./shape/quarter-ellipse.html)
+
+- [平行四边形](./shape/parallelograms.html)：通过 skew 的变形属性对矩形进行拉伸。
+
+- [平行四边形](./shape/parallelograms-pseudo.html)：利用伪元素以及定位属性产生一个方块，然后对伪元素设置样式，并将其放置在其宿主元素下层。当想变形一个元素而不想变形它对内容时非常有用。
