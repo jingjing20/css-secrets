@@ -61,3 +61,7 @@
 - [菱形图片](./shape/diamond-images.html)：通过 rotate 变形 + scale 变形实现菱形图片，旋转后图片的宽度应与容器对角线相等。
 
 - [菱形图片-裁剪路径](./shape/diamond-clip.html)：**clip-path** 属性可以把元素裁剪成任何形状。
+
+- [切角效果](./shape/bevel-corners-gradients.html)：利用线性渐变实现切角效果。
+
+- [切角效果](./shape/bevel-corners.html)：利用 SVG 实现切角效果。
