@@ -65,3 +65,7 @@
 - [切角效果](./shape/bevel-corners-gradients.html)：利用线性渐变实现切角效果。
 
 - [切角效果](./shape/bevel-corners.html)：利用 SVG 实现切角效果。
+
+- [切角效果](./shape/bevel-corners-clipped.html)：利用 **clip-path** 实现切角效果。
+
+- [弧形切角](./shape/scoop-corners.html)：利用径向渐变实现弧形切角。
